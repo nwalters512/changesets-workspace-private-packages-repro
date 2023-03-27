@@ -1,0 +1,12 @@
+{
+  "name": "changesets-workspace-private-packages-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nwalters512/changesets-workspace-private-packages-repro.git",
+  "author": "Nathan Walters <nwalters512@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@changesets/cli": "^2.26.1"
+  }
+}
